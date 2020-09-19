@@ -5,7 +5,9 @@ To make Farm 365 more accessible and staying as up to date as we can with the ev
  
 ## I phone 
 1. Follow the link to sign in
-2. Sign in with email address & password  
+2. Sign in with email address & password
+<img src="Images/IMG_0628.jpg" alt="sign in" width=350px />
+
 3. At the bottom of your screen find and touch on the ‘share’ icon
 4. Select ‘add to home screen’ 
 5. Your devise will default to saving it as Farm 365 but you can change this if you require
