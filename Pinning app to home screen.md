@@ -20,4 +20,4 @@ To make Farm 365 more accessible and staying as up to date as we can with the ev
 <img src="Images/IMG_0631.jpg.png" alt="sign in" width=350px />
 
 7. The app will now appear on your devices home screen
-<img src="Images/IMG_0598.PNG" alt="sign in" width=350px />
+<img src="Images/IMG_0598.jpg" alt="sign in" width=350px />
