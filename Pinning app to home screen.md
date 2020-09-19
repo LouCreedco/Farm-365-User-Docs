@@ -1,4 +1,4 @@
-# pinning the app to your home screen 
+# Pinning the app to your home screen 
 
 
 To make Farm 365 more accessible and staying as up to date as we can with the ever changing guidelines in the agricultural  industry the app is not accessible through the app store. 
